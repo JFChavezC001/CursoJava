@@ -10,8 +10,7 @@ public class App {
          * TIPOS DE VARIABLES
          * primitivas: almacenan valores basicos
          * de referencia: Almacenan direcciones de memoria que apuntan a objetos
-         */
-         
+        */ 
         //variable primitiva
         int numero = 5; 
         double dec = 5.43;
